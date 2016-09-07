@@ -1,0 +1,3 @@
+INSERT INTO `fitness`.`devices` (`version`, `serial_number`, `product`, `category`, `user_id`) VALUES ('0','123ABC' ,'FITBIT', 'bike', '1');
+INSERT INTO `fitness`.`devices` (`version`, `serial_number`, `product`, `category`, `user_id`) VALUES ('0','456DGR' ,'SURGE', 'lift', '1');
+INSERT INTO `fitness`.`devices` (`version`, `serial_number`, `product`, `category`, `user_id`) VALUES ('0','789IGY' ,'UP3', 'swim', '1');
